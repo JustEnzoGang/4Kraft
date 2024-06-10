@@ -1,15 +1,15 @@
 {
-    "name": "4kraft_launcher",
+    "name": "4kraftlauncher",
     "preductname": "4Kraft Launcher",
-    "version": "1.0.2",
-    "description": "Launcher Mincraft pour le serveur 4Kraft",
+    "version": "1.0.3",
+    "description": "Launcher Minecraft pour le serveur 4Kraft. Serveur pvp survie moddé.",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "https://4kraft-fr.preview-domain.com/",
+    "url": "https://4kraft-fr.preview-domain.com",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",

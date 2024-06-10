@@ -37,11 +37,11 @@
 
 .server-status-text {
     font-size: 0.6rem;
-    color: #1AC707;
+    color: #ffcd8b;
 }
 
 .server-status-infos .red {
-    color: #FF0409;
+    color: #582b00;
 }
 
 .status-player-count {
@@ -65,11 +65,11 @@
     right: 10px;
     border-radius: 15px;
     border: solid 5px var(--background);
-    background: #1AC707;
+    background: #ffae00;
 }
 
 .red:after {
-    background: #FF0409;
+    background: #582b00;
 }
 
 .home-bottom {
